@@ -1,2 +1,2 @@
 # weather-application
-Aplicação de tempo do curso CJRM
+Aplicação de tempo do curso de JavaScript CJRM
