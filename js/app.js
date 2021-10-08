@@ -6,8 +6,9 @@ const cityCard = document.querySelector('[data-js="city-card"]')
 const timeIconCard = document.querySelector('[data-js="time-icon"]')
 let timeImage = document.querySelector('[data-js="time"]')
 
-const showFields = (timeIcon, LocalizedName, WeatherText, Temperature) => {
-    //Popula os campos no DOM
+const showFields = fields => {
+    const { timeIcon, LocalizedName, WeatherText, Temperature } = fields
+    
     timeIconCard.innerHTML = timeIcon
     cityNameCard.textContent = LocalizedName
     cityWeatherCard.textContent = WeatherText
@@ -20,23 +21,20 @@ const showCity = () => {
     }
 }
 
-const showCityWeather = async cityName => {
+const showCityWeather = async event  => {
+    event.preventDefault()
+
+    const cityName = event.target.city.value
     const [{ Key, LocalizedName }] = await getCityData(cityName) 
     const [{ WeatherText, Temperature, IsDayTime, WeatherIcon }] = await getCityWeather(Key) 
-    //busca os dados do tempo atraves da chave da cidade
     const timeIcon = `<img src="./src/icons/${WeatherIcon}.svg" />`
 
     timeImage.src = IsDayTime ? './src/day.svg' : './src/night.svg'  
 
-    showFields(timeIcon, LocalizedName, WeatherText, Temperature)
+    showFields({ timeIcon, LocalizedName, WeatherText, Temperature })
+    showCity()    
+    cityForm.reset()
 }
 
-cityForm.addEventListener('submit', event => {
-    event.preventDefault()
+cityForm.addEventListener('submit', showCityWeather)
 
-    const inputValue = event.target.city.value
-
-    showCity()
-    showCityWeather(inputValue)    
-    cityForm.reset()
-})
