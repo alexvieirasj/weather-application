@@ -8,9 +8,9 @@
 ![GitHub issues](https://img.shields.io/github/issues/alexvieirasj/weather-application?style=for-the-badge)
 ![GitHub license](https://img.shields.io/github/license/alexvieirasj/weather-application?style=for-the-badge)
 
-<img alt="Tela Weather Application" src="./src/img/tela-weather.JPG" height="400">
+<img alt="Tela Weather Application" src="./src/img/tela-weather.JPG" height="550">
 
-> Aplicativo que verifica o clima na cidade pesquisada. Para pesquisar, digite o nome da cidade e clique "Enter" no teclado para mostrar os dados do clima na cidade desejada. 
+> Aplicativo que verifica o clima na cidade pesquisada. Para pesquisar, digite o nome da cidade e clique o botão "Enter" para mostrar os dados do clima na cidade desejada. 
 
 ### Ajustes e melhorias
 
