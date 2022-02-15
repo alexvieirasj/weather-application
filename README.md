@@ -21,8 +21,8 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [ ] Hospedar aplicação online
 - [ ] Gerar logs das pesquisas feitas
 - [ ] Quando o campo perder o foco, fazer a busca da "expressão" digitada
-- [ ] Guardar no storage do navegador as cidades pesquisadas
-- [ ] Mostrar botão mais detalhes e mostrar(temperatura, umidade, e turnos madruga, manhã, tarde e noite)
+- [ ] Guardar no storage do navegador as cidades/termos pesquisados
+- [ ] Mostrar botão mais detalhes e mostrar (temperatura, umidade, e turnos madruga, manhã, tarde e noite)
 
 ## 💻 Pré-requisitos
 
