@@ -12,6 +12,16 @@
 
 > Aplicativo que verifica o clima de uma cidade. Para pesquisar, digite o nome da cidade e clique no botão "Enter" para mostrar os dados do clima na cidade desejada. 
 
+## :rocket: Tecnologias utilizadas no projeto
+
+As tecnologias utilizadas no projeto foram:
+
+- [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+- Obs: menção para api do [AccuWeather](https://www.accuweather.com/) que foi consumida para pesquisa do clima
+
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
