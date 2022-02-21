@@ -10,7 +10,7 @@
 
 <img alt="Tela Weather Application" src="./src/img/tela-weather.JPG" height="550">
 
-> Aplicativo que verifica o clima de uma cidade. Para pesquisar, digite o nome da cidade e clique no botão "Enter" para mostrar os dados do clima na cidade desejada. 
+> Aplicativo que verifica o clima de uma cidade. Para pesquisar, digite o nome da cidade desejada e clique no botão "Enter" para mostrar os dados do clima. 
 
 ## :rocket: Tecnologias utilizadas no projeto
 
