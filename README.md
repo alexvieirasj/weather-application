@@ -54,10 +54,10 @@ Para usar a Weather Application, siga estas etapas:
 
 ```
     # Clonar o repositório
-    $ git clone https://github.com/alexvieirasj/casa-criativa.git
+    $ git clone https://github.com/alexvieirasj/weather-application.git
 
     # Entrar no diretório baixado
-    $ cd casa-criativa
+    $ cd weather-application
 ```
 
 É preciso ter instalado no computador o [Git](https://git-scm.com) (para rodar os comandos). O projeto pode ser baixado com as linhas de comando citadas ou no formato zip, clicando no botão `<Code>` na opção `<Download ZIP>`
