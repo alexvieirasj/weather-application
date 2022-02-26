@@ -20,7 +20,7 @@ As tecnologias utilizadas no projeto foram:
 - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-- Obs: menção para api do [AccuWeather](https://www.accuweather.com/) que foi consumida para pesquisa do clima
+- Obs: menção para api do [AccuWeather](https://www.accuweather.com/) que foi utlizada para pesquisa do clima
 
 ### Ajustes e melhorias
 
