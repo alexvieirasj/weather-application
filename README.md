@@ -28,7 +28,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 - [x] Deixar a ultima cidade pesquisada, quando a "cidade" pesquisada não for encontrada
 - [x] Criar readme explicando o projeto
-- [ ] Hospedar aplicação online
+- [ ] Hospedar aplicação em um site online
 - [ ] Gerar logs das pesquisas feitas
 - [ ] Quando o campo perder o foco, fazer a busca automática da "expressão" digitada
 - [ ] Guardar no storage do navegador as cidades/termos pesquisados
