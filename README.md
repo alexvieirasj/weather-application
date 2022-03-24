@@ -32,7 +32,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [ ] Gerar logs das pesquisas feitas
 - [ ] Quando o campo perder o foco, fazer a busca automática da "expressão" digitada
 - [ ] Guardar no storage do navegador as cidades/termos pesquisados
-- [ ] Mostrar botão mais detalhes e mostrar (temperatura, umidade, e turnos madruga, manhã, tarde e noite)
+- [ ] Mostrar botão com mais detalhes (apresentar temperatura, umidade, e turnos madruga, manhã, tarde e noite)
 
 ## 💻 Pré-requisitos
 
