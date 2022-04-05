@@ -24,7 +24,7 @@ As tecnologias utilizadas no projeto foram:
 
 ### Ajustes e melhorias
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+O projeto ainda está em desenvolvimento, as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [x] Deixar a ultima cidade pesquisada, quando a "cidade" pesquisada não for encontrada
 - [x] Criar readme explicando o projeto
