@@ -27,7 +27,7 @@ As tecnologias utilizadas no projeto foram:
 O projeto ainda está em desenvolvimento, as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [x] Deixar a ultima cidade pesquisada, quando a "cidade" pesquisada não for encontrada
-- [x] Criar readme explicando o projeto
+- [x] Criar readme explicando detalhes do projeto
 - [ ] Hospedar aplicação em um site online
 - [ ] Gerar logs das pesquisas feitas
 - [ ] Quando o campo perder o foco, fazer a busca automática da "expressão" digitada
