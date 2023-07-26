@@ -7,7 +7,7 @@
 Aplicação desenvolvida no curso [CJRM - Roger Melo](https://www.rogermelo.com.br/). Consiste em um aplicativo que faz traz o tempo no momento atual na cidade pesquisada.
 
 <h1 align="center">
-    <img alt="Capa Projeto" title="CapaProjeto" src="./src/img/demonstracao-aplicacao.gif"/>
+    <img alt="Capa Projeto" title="CapaProjeto" src="./src/img/demonstracao-aplicacao.gif" height="550"/>
 </h1>
 
 ## 📚 Informações sobre o projeto
